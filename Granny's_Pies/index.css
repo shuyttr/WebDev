@@ -1,0 +1,20 @@
+/*
+	Ari Roffe, Pie Recipe Website
+	This file contains the styles I used
+	for the front page of my website
+*/
+h1, h2{
+	color: rgb(164, 164, 0);
+	background-color: rgb(240, 240, 240);
+	font-family: "Lucida Sans Unicode", "Helvetica", "Arial", sans-serif;
+	font-weight: bold;
+}
+h1{
+	font-size: 24pt;
+}
+h2{
+	font-size: 18pt;
+}
+a{
+	color: purple;
+}

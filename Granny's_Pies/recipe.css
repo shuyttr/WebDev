@@ -1,0 +1,42 @@
+/*
+	Ari Roffe, Pie Recipe Website
+	This file contains the styles I used
+	for the primary recipe page
+*/
+h1, h2, a{
+	color: rgb(164, 164, 0);
+}
+h1, h2{
+	background-color: rgb(240, 240, 240);
+	font-family: "Lucida Sans Unicode", "Helvetica", "Arial", sans-serif;
+	text-decoration: underline;
+	letter-spacing: 0.25em; 
+	margin-top: 24px;
+	margin-bottom: 24px;
+}
+h1{
+	font-size: 22pt;
+	text-align: center;
+	font-weight: bold;
+}
+h2{
+	font-size: 18pt;
+	text-align: left;
+}
+body{
+	background-image: url(https://vekelly09.github.io/COM3780/homework/1/silverware.jpg);
+	color: rgb(64, 64, 64);
+	font-size: 11pt;
+	font-family: "Georgia", "Garamond", serif;
+	line-height: 1.23;
+}
+blockquote{
+	font-style: italic;
+	background-color: rgb(255, 255, 168);
+}
+span.bold{
+	font-weight: bold;
+}
+ul{
+	list-style-image: url(https://vekelly09.github.io/COM3780/homework/1/pie-icon.gif);
+}
