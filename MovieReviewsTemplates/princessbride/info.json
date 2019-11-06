@@ -1,0 +1,53 @@
+{
+  "title": "The Princess Bride",
+  "year": 1987,
+  "rating": 95,
+  "overview": [ 
+    { "tag": "STARRING", "value":  "Cary Elwes, Robin Wright, Andre the Giant, Mandy Patinkin"},
+    { "tag": "DIRECTOR", "value":  "Rob Reiner"},
+    { "tag": "PRODUCER", "value":  "Arnold Scheinman, Rob Reiner"},
+    { "tag": "SCREENWRITER", "value":  "William Goldman"},
+    { "tag": "RATING", "value":  "PG"},
+    { "tag": "RELEASE DATE", "value":  "PG"},
+    { "tag": "RUNTIME", "value":  "98 mins"},
+    { "tag": "SYNOPSIS", "value":  "Director Rob Reiner breathes vividly colored cinematic life into William Goldman's THE PRINCESS BRIDE, effectively evoking the wondrous, wide-eyed spirit of the witty 1973 novel."},
+    { "tag": "RELEASE COMPANY", "value":  "20th Century Fox"}
+    ],
+  "reviews": [
+  	{ "excerpt": "One of Reiner's most entertaining films, effective as a swashbuckling epic, romantic fable, and satire of these genres.",
+  	  "rating": "fresh",
+  	  "critic": "Emanuel Levy",
+  	  "affiliation": "emanuellevy.com"
+  	},
+  	{ "excerpt": "Based on William Goldman's novel, this is a post-modern fairy tale that challenges and affirms the conventions of a genre that may not be flexible enough to support such horseplay.",
+  	  "rating": "rotten",
+  	  "critic": "Variety Staff",
+  	  "affiliation": "Variety"
+  	},
+  	{ "excerpt": "Rob Reiner's friendly 1987 fairy-tale adventure delicately mines the irony inherent in its make-believe without ever undermining the effectiveness of the fantasy.",
+  	  "rating": "fresh",
+  	  "critic": "Jonathan Rosenbaum",
+  	  "affiliation": "Chicago Reader"
+  	},
+  	{ "excerpt": "One of the Top films of the 1980s, if not of all time. A treasure of a film that you'll want to watch again and again.",
+  	  "rating": "fresh",
+  	  "critic": "Clint Morris",
+  	  "affiliation": "Moviehole"
+  	},
+  	{ "excerpt": "An effective comedy, an interesting bedtime tale, and one of the greatest date rentals of all time.",
+  	  "rating": "fresh",
+  	  "critic": "Brad Laidman",
+  	  "affiliation": "Film Threat"
+  	},
+  	{ "excerpt": "The lesson it most effectively demonstrates is that cinema has the power to turn you into a kid again. As we wish.",
+  	  "rating": "fresh",
+  	  "critic": "Phil Villarreal",
+  	  "affiliation": "Arizona Daily Star"
+  	},
+  	{ "excerpt": "My name is Marty Stepp.  You killed my father.  Prepare to die.",
+  	  "rating": "fresh",
+  	  "critic": "Marty Stepp",
+  	  "affiliation": "Step by Step Publishing"
+  	}
+  ]
+}

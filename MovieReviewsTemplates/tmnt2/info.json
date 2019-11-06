@@ -1,0 +1,74 @@
+{
+  "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+  "year": 1991,
+  "rating": 36,
+  "overview": [
+    { "tag": "STARRING", "value": "Francois Chau, Paige Turco, David Warner, Ernie Reyes,  Vanilla Ice"},
+    { "tag": "DIRECTOR", "value": "Michael Pressman"},
+    { "tag": "DISTRIBUTORS", "value": "New Line Cinema, 20th Century Fox"},
+    { "tag": "RATING", "value": "PG"},
+    { "tag": "THEATRICAL RELEASE", "value": "March 22, 1991 (USA)"},
+    { "tag": "RUNTIME", "value": "88 min"},
+    { "tag": "SYNOPSIS", "value": "When reporter April O'Neil does a story on Professor Perry, and his efforts to uncover a certain toxic waste, the evil Shredder concludes that this is what gives the turtles their power, gets his hands on some and proceeds to create dangerous mutants. Armed with Professor Perry's anti-mutant antidote, it's up to the crime fighting turtles and a pizza delivery boy to conquer these mutants."},
+    { "tag": "MPAA RATING", "value": "PG, for animated action violence, some scary cartoon images and mild language"},
+    { "tag": "GENRE", "value": "Action/Adventure, Comedies, Childrens, Martial Arts, Superheroes, Ninjas, Animated Characters"}
+  ],
+  "reviews": [
+  	{ "review": "This lacks the darkness and subtlety that makes the first film so good, and so adult, but its simplified plot and gags will appeal to the under tens.",
+  	  "rating": "fresh",
+  	  "critic": "Lloyd Bradley",
+  	  "affiliation": "Empire Magazine"
+  	},
+  	{ "review": "The sequel plays things very safe.",
+  	  "rating": "rotten",
+  	  "critic": "Douglas Pratt",
+  	  "affiliation": "DVDLaser"
+  	},
+  	{ "review": "One can have a reasonably amusing time with this predictable sequel, which is a bit longer on action and shorter on wit and character than the original.",
+  	  "rating": "fresh",
+  	  "critic": "Jonathan Rosenbaum",
+  	  "affiliation": "Chicago Reader"
+  	},
+  	{ "review": "The Turtles, when not battling Shredder or providing Vanilla Ice with the basis for a rap number, kid around in enjoyable ways.",
+  	  "rating": "fresh",
+  	  "critic": "Jane Maslin",
+  	  "affiliation": "New York Times"
+  	},
+  	{ "review": "This one should have oozed out of the can before it got into any theaters.",
+  	  "rating": "rotten",
+  	  "critic": "Bob Bloom",
+  	  "affiliation": "Journal and Courier (Lafayette, IN)"
+  	},
+  	{ "review": "Not only insulting to your intelligence, but also harmful for children to watch.",
+  	  "rating": "rotten",
+  	  "critic": "Derek Smith",
+  	  "affiliation": "Apollo Guide"
+  	},
+  	{ "review": "Dear God, why?",
+  	  "rating": "rotten",
+  	  "critic": "Ken Hanke",
+  	  "affiliation": "Mountain Xpress (Asheville, NC)"
+  	},
+  	{ "review": "The muppets look mighty fake, and Vanilla Ice was better in Cool as Ice, but check out wrestler Kevin Nash as Super Shredder.",
+  	  "rating": "fresh",
+  	  "critic": "Luke Y. Thompson",
+  	  "affiliation": "New Times"
+  	},
+  	{ "review": "Even more fun than the original!",
+  	  "rating": "fresh",
+  	  "critic": "Clint Morris",
+  	  "affiliation": "Moviehole"
+  	},
+  	{ "review": "If a Vanilla Ice cameo is a highlight, imagine what the rest of the film is like.",
+  	  "rating": "rotten",
+  	  "critic": "James Sanford",
+  	  "affiliation": "Kalamazoo Gazette"
+  	},
+  	{ "review": "Next time, if the Turtles really want to hurt 'em, they should call on Hammer.",
+  	  "rating": "rotten",
+  	  "critic": "Peter Travers",
+  	  "affiliation": ""
+  	}
+
+  ]
+}

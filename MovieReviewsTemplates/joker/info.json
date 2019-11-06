@@ -1,0 +1,53 @@
+{
+  "title": "Joker",
+  "year": 2019,
+  "rating": 69,
+  "overview": [ 
+    { "tag": "STARRING", "value":  "Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy"},
+    { "tag": "DIRECTOR", "value":  "Todd Phillips"},
+    { "tag": "PRODUCER", "value":  "Todd Phillips, Bradley Cooper, Emma Tillinger"},
+    { "tag": "CINEMATOGRAPHER", "value":  "Lawrence Sher"},
+    { "tag": "RATING", "value":  "R"},
+    { "tag": "RELEASE DATE", "value":  "October 4, 2019"},
+    { "tag": "RUNTIME", "value":  "122 mins."},
+    { "tag": "SYNOPSIS", "value":  "Forever alone in a crowd, failed comedian Arthur Fleck seeks connection as he walks the streets of Gotham City."},
+    { "tag": "RELEASE COMPANY", "value":  "Warner Bros"}
+    ],
+  "reviews": [
+  	{ "excerpt": "Even though it is most certainly not your traditional approach to this character. Definitely breaks ground.",
+  	  "rating": "rotten",
+  	  "critic": "Carey-Ann Pawsey",
+  	  "affiliation": "ORCA Sound"
+  	},
+  	{ "excerpt": "Heath Ledger's maniacal agent of destruction would have kicked this sorry-ass loser off Gotham's tallest building.",
+  	  "rating": "fresh",
+  	  "critic": "Ruben Rosario",
+  	  "affiliation": "MiamiArtZine"
+  	},
+  	{ "excerpt": "Phoenix's mesmerizing lead performance is more than enough to carry the narrative past many of its meandering moments.",
+  	  "rating": "rotten",
+  	  "critic": "Ian Thomas Malone",
+  	  "affiliation": "Ian Thomas Malone"
+  	},
+  	{ "excerpt": "Watching Joaquin dance and evolve is enough to make this movie worth the time. Unfortunately, the third act that reaches beyond the character is not as successful.",
+  	  "rating": "rotten",
+  	  "critic": "David Poland",
+  	  "affiliation": "Movie City News"
+  	},
+  	{ "excerpt": "Simply as a film, Joker leaves much to be desired: It's heavy-handed and derivative. But as with previous superhero narratives, it provides a fascinating allegory for present concerns.",
+  	  "rating": "fresh",
+  	  "critic": "Jeet Heer",
+  	  "affiliation": "The Nation"
+  	},
+  	{ "excerpt": "oker has a very important message about mental illness, and everyone should watch it. Maybe it will make people think twice about how they treat others.",
+  	  "rating": "rotten",
+  	  "critic": "Tessa Smith",
+  	  "affiliation": "Mama's Geeky"
+  	},
+  	{ "excerpt": "But still: a provocation. Performance art. And an ongoing conversation.",
+  	  "rating": "rotten",
+  	  "critic": "Ray Pride",
+  	  "affiliation": "Newcity"
+  	}
+  ]
+}
