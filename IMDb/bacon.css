@@ -1,0 +1,40 @@
+html{
+    background-color: #dad9d4;
+    font-family: Verdana, sans-serif;
+    color: black;
+}
+body{
+    background-color: white;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#w3c, #banner{
+    background-image: url("http://162.243.171.11/COM3780/homework/5/images/banner-background.png");
+    color: white;
+}
+form{
+    width: 24em;
+    margin: auto;
+}
+#main{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+tr:nth-child(even){
+    background-color: #dad9d4;
+    border-color: #dad9d4;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #dad9d4;
+}
+td, p, h1{
+    text-align: center;
+}
+caption{
+    caption-side: top;
+}
